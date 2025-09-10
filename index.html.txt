@@ -1,0 +1,15 @@
+<h1>Моє місто Запоріжжя</h1>
+<p><img src="https://images.unian.net/photos/2022_09/thumb_files/1200_0_1664248932-1278.png"  width="500" height="300"></p>
+<p><b>1. Острів Хортиця</b> – найбільший річковий острів у Європі. Він має довжину близько 12 км та ширину до 2,5 км. Саме тут знаходиться історико-культурний комплекс «Запорізька Січ».</p>
+<p><img src="https://hortica.zp.ua/images/sich.jpg"</p>
+  <p><b>2. Батьківщина запорозьких козаків</b> – Запоріжжя вважають колискою козацтва. На Хортиці відтворена Січ, яка показує, як жили й воювали козаки.</p>
+<p><img src="https://dnipro.libr.dp.ua/image/catalog/Komp_A/Titul_kozaki.jpg" width=600></p>
+<p><b>3. ДніпроГЕС</b> – одна з найвідоміших гідроелектростанцій України. Її побудували в 1932 році, і на той час це була найбільша ГЕС у Європі.<p>
+<p><img src="https://tykyiv.com/media/dniproges-zaporizhzhya.jpg" width=700></p>
+<p><b>4. Міст Преображенського</b> – один із найдовших аркових мостів у світі на момент будівництва (1929–1931). Він з’єднує правий і лівий береги Запоріжжя через Хортицю.</p>
+<p><img src="https://1news.zp.ua/media/2021/05/cropped-most.jpg" width=700></p>
+<b><p>5. Автозавод «ЗАЗ»</b> – у Запоріжжі виробляли легендарні автомобілі «Запорожець». Для багатьох українських родин це була перша машина.
+<p><img src="https://ukrautoprom.com.ua/wp-content/uploads/2020/09/zaz-avtozavod.jpg" width=500>
+<img src="https://hdpic.club/uploads/posts/2021-11/1638214704_1-hdpic-club-p-avto-zaporozhets-1.png" width=600 height=335></p>
+<b><p>6. Найбільший дуб України</b> – у місті росте «Запорізький дуб» віком понад 700 років. За легендою, під ним козаки радилися перед походами.</p>
+<p><img src="https://ua.igotoworld.com/frontend/webcontent/websites/1/images/gallery/12998_800x600_301.jpg"
